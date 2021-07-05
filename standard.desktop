@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Desktop
+Comment=Fake Desktop app
+Exec=/home/user/Documents/
+Icon=/home/user/Documents/
+Type=Application
+Categories=WhateveryourProgramis

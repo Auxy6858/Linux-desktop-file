@@ -1,4 +1,5 @@
 # Desktop-File-Linux
-The standard .desktop file for most linux distros (inclusing chrome os). These are stored under /linux files/.local/share/applications/
+The standard .desktop application shortcut file supported by most linux desktop environments (including chrome os).
+These are stored under /.local/share/applications/
 
-Exec= the command used to execute whatever you want the app to do/open.    Eg: java -jar file.jar 
+Exec= the command that should be executed upon the shortcut's use.  Eg: ("java -jar file.jar") 
